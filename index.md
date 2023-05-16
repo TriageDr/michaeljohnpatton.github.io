@@ -1,5 +1,5 @@
 # Michael J. Patton, B.A. Chemistry, MD/PhD Candidate at the University of Alabama at Birmingham
-<img src="https://github.com/TriageDr/michaeljohnpatton.github.io/blob/main/michaelpatton_professional_headshot_2in.jpg" alt="My Image"/>
+<img src="https://raw.githubusercontent.com/TriageDr/michaeljohnpatton.github.io/main/michaelpatton_professional_headshot_2in.jpg"/>
 
 ## About Me
 
