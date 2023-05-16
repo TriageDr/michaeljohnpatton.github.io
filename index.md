@@ -3,8 +3,6 @@
 
 My goal as a future physician-scientist is to develop computational methods and software focused on extracting clinically actionable information from data sources ranging from high throughput multi-omic experiments to clinical exam medical records. As an undergraduate researcher studying organic synthesis, I never produced enough data to warrant a deep dive into rigorous computational analysis; however, as a post-baccalaureate researcher at the NIH, I found that the application of high-throughput proteomic analysis to a bacterial disease models could produce a significant amount of complex data. Under Dr. Harlan Caldwell’s guidance, I established foundational knowledge of human-microbial interactions through the study Chlamydia trachomatis pathogenesis while gaining deep understanding of how to perform wet lab omic analyses using mass spectrometry. During my three years at the NIH, I discovered a novel C. trachomatis immune avoidance mechanism and performed experiments resulting in the highest proteomic coverage of the organism to date. After departing the NIH, I began my first year as a MD/PhD student at the University of Alabama at Birmingham (UAB) with a desire to learn the informatic expertise required to analyze more complex omic datasets in human disease studies. By the end of my first year of medical school, I realized that my previous experience with high-throughput proteomics at the NIH was pulling me closer to a pursuit of bioinformatics and software development. As a current graduate student, I committed myself to the pursuit of a PhD in biomedical informatics. With the mentorship of Dr. Matthew Might, I am developing a diverse skill-set in programming, electronic medical record analysis, machine learning, outcome modeling, and clinical decision support software development at the UAB Precision Medicine Institute. 
 
-
-
 ## My Publications
 
 ### MD/PhD Research
@@ -21,11 +19,7 @@ My goal as a future physician-scientist is to develop computational methods and 
 - Yang, C., Kari, L., Sturdevant, G. L., Song, L., **Patton, M.J.**, Couch, C. E., Ilgenfritz, J. M., Southern, T. R., Whitmire, W. M., Briones, M., Bonner, C., Grant, C., Hu, P., McClarty, G., & Caldwell, H. D. (2017). Chlamydia trachomatis ChxR is a transcriptional regulator of virulence factors that function in in vivo host-pathogen interactions. Pathogens and Disease, 75(3). DOI: [10.1093/femspd/ftx035](https://doi.org/10.1093/femspd/ftx035)  PMID: [28369275](https://pubmed.ncbi.nlm.nih.gov/28369275/)
 - **Patton, M.J.**, McCorrister, S., Grant, C., Westmacott, G., Fariss, R., Hu, P., Zhao, K., Blake, M., Whitmire, B., Yang, C., Caldwell, H. D., & McClarty, G. (2016). Chlamydial Protease-Like Activity Factor and Type III Secreted Effectors Cooperate in Inhibition of p65 Nuclear Translocation. MBio, 7(5). DOI: [10.1128/mBio.01427-16](https://doi.org/10.1128/mBio.01427-16)  PMID: [27677792](https://pubmed.ncbi.nlm.nih.gov/27677792/)
 
-## My Resume
-
-
 ## Contact Me
-
 You can reach me at:
 
 - Email: mjpatton@uab.edu
