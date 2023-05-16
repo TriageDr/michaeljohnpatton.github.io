@@ -29,8 +29,8 @@
 You can reach me at:
 
 - Email: mjpatton@uab.edu
-- LinkedIn: https://www.linkedin.com/in/michael-patton-uab-md-phd/
-- ResearchGate: https://www.researchgate.net/profile/Michael_Patton9
-- PubMed: https://pubmed.ncbi.nlm.nih.gov/?size=200&term=Patton+MJ&cauthor_id=36012406
-- UAB Precision Medicine Institute: https://www.uab.edu/medicine/pmi/our-team
-- UAB Medical Scientist Training Program: https://www.uab.edu/medicine/mstp/directories/current-students 
+- LinkedIn: (https://www.linkedin.com/in/michael-patton-uab-md-phd/)
+- ResearchGate: (https://www.researchgate.net/profile/Michael_Patton9)
+- PubMed: (https://pubmed.ncbi.nlm.nih.gov/?size=200&term=Patton+MJ&cauthor_id=36012406)
+- UAB Precision Medicine Institute: (https://www.uab.edu/medicine/pmi/our-team)
+- UAB Medical Scientist Training Program: (https://www.uab.edu/medicine/mstp/directories/current-students)
