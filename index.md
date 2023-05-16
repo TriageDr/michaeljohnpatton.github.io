@@ -21,7 +21,7 @@ My goal as a future physician-scientist is to develop computational methods and 
 
 ## Employment, Education, & Awards
 ### MD/PhD Candidate in the University of Alabama Medical Scientist Training Program (2017-Present)
-### University of Alabama at Birmingham (UAB)
+#### University of Alabama at Birmingham (UAB)
 - Analzyed electronic health record data from multiple institutions (Cerner, EPIC systems) 
 - Performed risk factor and outcome modeling analyses for COVID-19 community-acquired bacterial co-infections 
 - Programming Skills
@@ -32,7 +32,7 @@ My goal as a future physician-scientist is to develop computational methods and 
     - Scheme
 
 ### NIH IRTA Post-Baccalaureate Researcher (2014-2017)
-### National Institute of Allergy and Infectious Diseases (NIAID)
+#### National Institute of Allergy and Infectious Diseases (NIAID)
 - Performed experiments analyzing host-bacterial interactions of the human pathogen Chlamydia trachomatis. Focal points of my two publications were the chlamydial plasmid and the putative virulence factor CPAF, the chlamydial protease-like activity factor, and their respective functions in host immune avoidance and the chlamydial life cycle. 
 - Laboratory Skills
     - High-throughput Proteomic Mass Spectrometry (Q Exactive™ Hybrid Quadrupole-Orbitrap)
@@ -46,13 +46,13 @@ My goal as a future physician-scientist is to develop computational methods and 
     - Flow Cytometry (8-channel)
 
 ### Fulbright Scholar (2013-2014)
-### United States-India Educational Foundation (USIEF), Chennai India
+#### United States-India Educational Foundation (USIEF), Chennai India
 - Primary and Secondary School Teacher for English at the Hindu Senior Secondary School
 - Tamil language training for the duration of the grant
 - Presented English, Public Health, and American History and Culture seminars for after school youth programs in both urban and rural Tamil Nadu
 
 ### Occidental College (2009-2013)
-### Bachelor of Arts (B.A.), Chemistry
+#### Bachelor of Arts (B.A.), Chemistry
 - Undergraduate laboratory researcher for Dr. Donald Deardorff 
 - Performed a novel organic synthesis of the commercially sold pharmaceutical product Duloxetine, (marketed as Cymbalta®)
 - Laboratory Skills
