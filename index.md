@@ -3,6 +3,51 @@
 
 My goal as a future physician-scientist is to develop computational methods and software focused on extracting clinically actionable information from data sources ranging from high throughput multi-omic experiments to clinical exam medical records. As an undergraduate researcher studying organic synthesis, I never produced enough data to warrant a deep dive into rigorous computational analysis; however, as a post-baccalaureate researcher at the NIH, I found that the application of high-throughput proteomic analysis to a bacterial disease models could produce a significant amount of complex data. Under Dr. Harlan Caldwell’s guidance, I established foundational knowledge of human-microbial interactions through the study Chlamydia trachomatis pathogenesis while gaining deep understanding of how to perform wet lab omic analyses using mass spectrometry. During my three years at the NIH, I discovered a novel C. trachomatis immune avoidance mechanism and performed experiments resulting in the highest proteomic coverage of the organism to date. After departing the NIH, I began my first year as a MD/PhD student at the University of Alabama at Birmingham (UAB) with a desire to learn the informatic expertise required to analyze more complex omic datasets in human disease studies. By the end of my first year of medical school, I realized that my previous experience with high-throughput proteomics at the NIH was pulling me closer to a pursuit of bioinformatics and software development. As a current graduate student, I committed myself to the pursuit of a PhD in biomedical informatics. With the mentorship of Dr. Matthew Might, I am developing a diverse skill-set in programming, electronic medical record analysis, machine learning, outcome modeling, and clinical decision support software development at the UAB Precision Medicine Institute. 
 
+## Employment, Education, & Awards
+MD/PhD Candidate in the University of Alabama Medical Scientist Training Program (2017-Present)
+University of Alabama at Birmingham
+- Analysis of electronic health records from multiple institutions (Cerner, EPIC)
+- Performed outcome modeling with a variety of machine learning techniques
+- Programming Skills
+    - R
+    - Python
+    - SQL
+    - Racket
+    - Scheme
+
+NIH IRTA Post-Baccalaureate Researcher (2014-2017)
+National Institute of Allergy and Infectious Diseases (NIAID)
+- Performed experiments analyzing host-bacterial interactions of the human pathogen Chlamydia trachomatis. Focal points of my two publications were the chlamydial plasmid and the putative virulence factor CPAF, the chlamydial protease-like activity factor, and their respective functions in host immune avoidance and the chlamydial life cycle. 
+- Laboratory Skills
+    - High-throughput Proteomic Mass Spectrometry (Q Exactive™ Hybrid Quadrupole-Orbitrap)
+    - Confocal Microscopy (Zeiss LSM 700 & 880 Confocal Airyscan Detection™)
+    - Bacterial Cloning
+    - Cell/Viral/Bacterial Culture & Sterile Technique
+    - Flow Cytometry (BD LSRII - Quad/IRF)
+    - DNA/RNA purification, PCR, qRT-PCR 
+    - ELISA Assays 
+    - 1D/2D Western Blotting 
+
+Fulbright Scholar (2013-2014)
+United States-India Educational Foundation (USIEF), New Delhi
+- Primary and Secondary School Teacher for English at the Hindu Senior Secondary School
+- Tamil language training for the duration of the grant
+- Presented English, Public Health, and American History and Culture seminars for after school youth programs in both urban and rural Tamil Nadu
+
+Occidental College (2009-2013)
+Bachelor of Arts (B.A.), Chemistry
+- Undergraduate Laboratory Researcher for Dr. Donald Deardorff 
+- Novel organic synthesis of the commercially sold pharmaceutical product Duloxetine, (marketed as Cymbalta®)
+- Laboratory Skills
+    - Nuclear Magnetic Resonance Imaging (Carbon & Proton 1-D/2-D Bruker 300™)
+    - High Performance, Column, Radial, & Thin-layer Chromatography
+    - Gas Chromatography Mass Spectrometry (GC-MS)
+    - Infrared, Fluorescent & Raman Spectroscopy 
+    - Liquid-Phase Polarimetry
+- Organic Chemistry Tutor
+    - Led two-hour tutor sessions for undergraduate organic chemistry students twice a week
+    - Collaborated with other facilitators in a team environment to create original practice exams for students
+
 ## My Publications
 
 ### MD/PhD Research
