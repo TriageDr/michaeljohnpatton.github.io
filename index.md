@@ -1,6 +1,6 @@
 # Michael J. Patton, B.A. Chemistry, MD/PhD Candidate at the University of Alabama at Birmingham
 
-/headshot_photos/michaelpatton_professional_headshot.jpg
+https://github.com/TriageDr/michaeljohnpatton.github.io/blob/main/michaelpatton_professional_headshot.jpg
 
 
 ## About Me
@@ -8,14 +8,14 @@
 
 ## My Publications
 
-# MD/PhD Research
+### MD/PhD Research
 - [Patton, M. J., & Liu, V. X. (2023). Predictive modeling using artificial intelligence and machine learning algorithms on electronic health record data. Critical Care Clinics. https://doi.org/10.1016/j.ccc.2023.02.001](In-Press)
 - [Fortmann, S. D., Patton, M.J., Frey, B. F., Tipper, J. L., Reddy, S. B., Vieira, C. P., Hanumanthu, V. S., Sterrett, S., Floyd, J. L., Prasad, R., Zucker, J. D., Crouse, A. B., Huls, F., Chkheidze, R., Li, P., Erdmann, N., Harrod, K. S., Gaggar, A., Goepfert, P. A., … Might, M. (2023). Circulating SARS-CoV-2+ Megakaryocytes Associate with Severe Viral Infection in COVID-19. Blood Advances. https://doi.org/10.1182/bloodadvances.2022009022](https://pubmed.ncbi.nlm.nih.gov/36920790/)
 - [Patton, M. J., Orihuela, C. J., Harrod, K. S., Bhuiyan, M. A. N., Dominic, P., Kevil, C. G., Fort, D., Liu, V. X., Farhat, M., Koff, J. L., Lal, C. V., Gaggar, A., Richter, R. P., Erdmann, N., Might, M., & Gaggar, A. (2023). COVID-19 bacteremic co-infection is a major risk factor for mortality, ICU admission, and mechanical ventilation. Critical Care, 27(1), 34. https://doi.org/10.1186/s13054-023-04312-0](https://pubmed.ncbi.nlm.nih.gov/36691080/)
 - [Foksinska, A., Crowder, C. M., Crouse, A. B., Henrikson, J., Byrd, W. E., Rosenblatt, G., Patton, M. J., He, K., Tran-Nguyen, T. K., Zheng, M., Ramsey, S. A., Amin, N., Osborne, J., UAB Precision Medicine Institute, & Might, M. (2022). The precision medicine process for treating rare disease using the artificial intelligence tool mediKanren. Frontiers in Artificial Intelligence, 5, 910216. https://doi.org/10.3389/frai.2022.910216](https://pubmed.ncbi.nlm.nih.gov/36248623/)
 - [Prasad, R., Patton, M. J., Floyd, J. L., Fortmann, S., DuPont, M., Harbour, A., Wright, J., Lamendella, R., Stevens, B. R., Oudit, G. Y., & Grant, M. B. (2022). Plasma Microbiome in COVID-19 Subjects: An Indicator of Gut Barrier Defects and Dysbiosis. International Journal of Molecular Sciences, 23(16). https://doi.org/10.3390/ijms23169141](https://pubmed.ncbi.nlm.nih.gov/36012406/)
 
-# NIH Post-Baccalaureate Research
+### NIH Post-Baccalaureate Research
 - [Lei, L., Yang, C., Patton, M. J., Smelkinson, M., Dorward, D., Ma, L., Karanovic, U., Firdous, S., McClarty, G., & Caldwell, H. D. (2021). A Chlamydial Plasmid-Dependent Secretion System for the Delivery of Virulence Factors to the Host Cytosol. MBio, e0117921. https://doi.org/10.1128/mBio.01179-21](https://pubmed.ncbi.nlm.nih.gov/34101486/)
 - [Yang, C., Briones, M., Chiou, J., Lei, L., Patton, M. J., Ma, L., McClarty, G., & Caldwell, H. D. (2019). Chlamydia trachomatis Lipopolysaccharide Evades the Canonical and Noncanonical Inflammatory Pathways To Subvert Innate Immunity. MBio, 10(2). https://doi.org/10.1128/mBio.00595-19](https://pubmed.ncbi.nlm.nih.gov/31015326/)
 - [Patton, M. J., Chen, C.-Y., Yang, C., McCorrister, S., Grant, C., Westmacott, G., Yuan, X.-Y., Ochoa, E., Fariss, R., Whitmire, W. M., Carlson, J. H., Caldwell, H. D., & McClarty, G. (2018). Plasmid Negative Regulation of CPAF Expression Is Pgp4 Independent and Restricted to Invasive Chlamydia trachomatis Biovars. MBio, 9(1). https://doi.org/10.1128/mBio.02164-17](https://pubmed.ncbi.nlm.nih.gov/29382731/)
