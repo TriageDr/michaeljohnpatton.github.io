@@ -10,6 +10,7 @@ My goal as a future physician-scientist is to perform bench-to-bedside translati
 - **Patton, M.J.**, Orihuela, C. J., Harrod, K. S., Bhuiyan, M. A. N., Dominic, P., Kevil, C. G., Fort, D., Liu, V. X., Farhat, M., Koff, J. L., Lal, C. V., Gaggar, A., Richter, R. P., Erdmann, N., Might, M., & Gaggar, A. (2023). COVID-19 bacteremic co-infection is a major risk factor for mortality, ICU admission, and mechanical ventilation. Critical Care, 27(1), 34. DOI: [10.1186/s13054-023-04312-0](https://doi.org/10.1186/s13054-023-04312-0)  PMID: [36691080](https://pubmed.ncbi.nlm.nih.gov/36691080/)
 - Foksinska, A., Crowder, C. M., Crouse, A. B., Henrikson, J., Byrd, W. E., Rosenblatt, G., **Patton, M.J.**, He, K., Tran-Nguyen, T. K., Zheng, M., Ramsey, S. A., Amin, N., Osborne, J., UAB Precision Medicine Institute, & Might, M. (2022). The precision medicine process for treating rare disease using the artificial intelligence tool mediKanren. Frontiers in Artificial Intelligence, 5, 910216. DOI: [DOI:10.3389/frai.2022.910216](https://doi.org/10.3389/frai.2022.910216)  PMID: [36248623](https://pubmed.ncbi.nlm.nih.gov/36248623/)
 - Prasad, R., **Patton, M.J.**, Floyd, J. L., Fortmann, S., DuPont, M., Harbour, A., Wright, J., Lamendella, R., Stevens, B. R., Oudit, G. Y., & Grant, M. B. (2022). Plasma Microbiome in COVID-19 Subjects: An Indicator of Gut Barrier Defects and Dysbiosis. International Journal of Molecular Sciences, 23(16). DOI: [10.3390/ijms23169141](https://doi.org/10.3390/ijms23169141)  PMID: [36012406](https://pubmed.ncbi.nlm.nih.gov/36012406/)
+- Greer, R., Song, Y., **Patton, M. J.**, Might, M., Harrod, K., Petit, C. M., & Song, Y. (2021). Identification of FDA Approved Antiviral Drugs for COVID-19 Treatment using Unbiased Virtual Screening. Biophysical Journal, 120(3), 204a. DOI: [DOI:10.1016/j.bpj.2020.11.1394](https://doi.org/10.1016/j.bpj.2020.11.1394) PMCID: [PMC7879731](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7879731/)
 
 ### NIH Post-Baccalaureate Research
 - Lei, L., Yang, C., **Patton, M.J.**, Smelkinson, M., Dorward, D., Ma, L., Karanovic, U., Firdous, S., McClarty, G., & Caldwell, H. D. (2021). A Chlamydial Plasmid-Dependent Secretion System for the Delivery of Virulence Factors to the Host Cytosol. MBio, e0117921. DOI: [10.1128/mBio.01179-21](https://doi.org/10.1128/mBio.01179-21)  PMID: [34101486](https://pubmed.ncbi.nlm.nih.gov/34101486/)
@@ -22,7 +23,7 @@ My goal as a future physician-scientist is to perform bench-to-bedside translati
 ## Employment, Education, & Awards
 ### MD/PhD Candidate in the University of Alabama Medical Scientist Training Program (2017-Present)
 #### University of Alabama at Birmingham (UAB)
-- Analzyed electronic health record data from multiple institutions (Cerner, EPIC systems) 
+- Analyzed electronic health record data from multiple institutions (Cerner, EPIC systems) 
 - Performed risk factor and outcome modeling analyses for COVID-19 community-acquired bacterial co-infections 
 - Programming Skills
     - R
@@ -71,8 +72,8 @@ You can reach me at:
 
 - Email: mjpatton@uab.edu
 - LinkedIn: [https://www.linkedin.com/in/michael-patton-uab-md-phd/](https://www.linkedin.com/in/michael-patton-uab-md-phd/)
-- ORCID: [https://orcid.org/0000-0001-5056-6043](https://orcid.org/0000-0001-5056-6043)
 - ResearchGate: [https://www.researchgate.net/profile/Michael_Patton9](https://www.researchgate.net/profile/Michael_Patton9)
+- ORCID: [https://orcid.org/0000-0001-5056-6043](https://orcid.org/0000-0001-5056-6043)
 - PubMed: [https://pubmed.ncbi.nlm.nih.gov/?size=200&term=Patton+MJ&cauthor_id=36012406](https://pubmed.ncbi.nlm.nih.gov/?size=200&term=Patton+MJ&cauthor_id=36012406)
 - UAB Precision Medicine Institute: [https://www.uab.edu/medicine/pmi/our-team](https://www.uab.edu/medicine/pmi/our-team)
 - UAB Medical Scientist Training Program: [https://www.uab.edu/medicine/mstp/directories/current-students](https://www.uab.edu/medicine/mstp/directories/current-students)
