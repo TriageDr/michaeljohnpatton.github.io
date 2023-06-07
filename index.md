@@ -20,7 +20,7 @@ My goal as a future physician-scientist is to perform bench-to-bedside translati
 - **Patton, M.J.**, McCorrister, S., Grant, C., Westmacott, G., Fariss, R., Hu, P., Zhao, K., Blake, M., Whitmire, B., Yang, C., Caldwell, H. D., & McClarty, G. (2016). Chlamydial Protease-Like Activity Factor and Type III Secreted Effectors Cooperate in Inhibition of p65 Nuclear Translocation. MBio, 7(5). DOI: [10.1128/mBio.01427-16](https://doi.org/10.1128/mBio.01427-16)  PMID: [27677792](https://pubmed.ncbi.nlm.nih.gov/27677792/)
 
 ## Press & News Releases 
-- University of Alabama at Birmingham Press Release for Critical Care Publication:["COVID-19: Bacterial co-infection is a major risk factor for death, ICU admission and mechanical ventilation"](https://www.uab.edu/news/research/item/13445-covid-19-bacterial-co-infection-is-a-major-risk-factor-for-death-icu-admission-and-mechanical-ventilation)
+- University of Alabama at Birmingham Press Release for Critical Care Publication: [COVID-19: Bacterial co-infection is a major risk factor for death, ICU admission and mechanical ventilation](https://www.uab.edu/news/research/item/13445-covid-19-bacterial-co-infection-is-a-major-risk-factor-for-death-icu-admission-and-mechanical-ventilation)
 
 ## Employment, Education, & Awards
 ### MD/PhD Candidate in the University of Alabama Medical Scientist Training Program (2017-Present)
