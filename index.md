@@ -11,7 +11,7 @@ My goal as a future physician-scientist is to perform bench-to-bedside translati
 - **<ins>Patton, M. J.<ins>**, Orihuela, C. J., Harrod, K. S., Bhuiyan, M. A. N., Dominic, P., Kevil, C. G., Fort, D., Liu, V. X., Farhat, M., Koff, J. L., Lal, C. V., Gaggar, A., Richter, R. P., Erdmann, N., Might, M., & Gaggar, A. (2023). COVID-19 bacteremic co-infection is a major risk factor for mortality, ICU admission, and mechanical ventilation. Critical Care, 27(1), 34. DOI: [10.1186/s13054-023-04312-0](https://doi.org/10.1186/s13054-023-04312-0)  PMID: [36691080](https://pubmed.ncbi.nlm.nih.gov/36691080/)
 - Foksinska, A., Crowder, C. M., Crouse, A. B., Henrikson, J., Byrd, W. E., Rosenblatt, G., **<ins>Patton, M. J.<ins>**, He, K., Tran-Nguyen, T. K., Zheng, M., Ramsey, S. A., Amin, N., Osborne, J., UAB Precision Medicine Institute, & Might, M. (2022). The precision medicine process for treating rare disease using the artificial intelligence tool mediKanren. Frontiers in Artificial Intelligence, 5, 910216. DOI: [10.3389/frai.2022.910216](https://doi.org/10.3389/frai.2022.910216)  PMID: [36248623](https://pubmed.ncbi.nlm.nih.gov/36248623/)
 - Prasad, R., **<ins>Patton, M. J.<ins>**, Floyd, J. L., Fortmann, S., DuPont, M., Harbour, A., Wright, J., Lamendella, R., Stevens, B. R., Oudit, G. Y., & Grant, M. B. (2022). Plasma Microbiome in COVID-19 Subjects: An Indicator of Gut Barrier Defects and Dysbiosis. International Journal of Molecular Sciences, 23(16). DOI: [10.3390/ijms23169141](https://doi.org/10.3390/ijms23169141)  PMID: [36012406](https://pubmed.ncbi.nlm.nih.gov/36012406/)
-- Greer, R., Song, Y., **Patton, M. J.**, Might, M., Harrod, K., Petit, C. M., & Song, Y. (2021). Identification of FDA Approved Antiviral Drugs for COVID-19 Treatment using Unbiased Virtual Screening. Biophysical Journal, 120(3), 204a. DOI: [10.1016/j.bpj.2020.11.1394](https://doi.org/10.1016/j.bpj.2020.11.1394) PMCID: [PMC7879731](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7879731/)
+- Greer, R., Song, Y., **<ins>Patton, M. J.<ins>**, Might, M., Harrod, K., Petit, C. M., & Song, Y. (2021). Identification of FDA Approved Antiviral Drugs for COVID-19 Treatment using Unbiased Virtual Screening. Biophysical Journal, 120(3), 204a. DOI: [10.1016/j.bpj.2020.11.1394](https://doi.org/10.1016/j.bpj.2020.11.1394) PMCID: [PMC7879731](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7879731/)
 
 ### NIH Post-Baccalaureate Research
 - Lei, L., Yang, C., **<ins>Patton, M. J.<ins>**, Smelkinson, M., Dorward, D., Ma, L., Karanovic, U., Firdous, S., McClarty, G., & Caldwell, H. D. (2021). A Chlamydial Plasmid-Dependent Secretion System for the Delivery of Virulence Factors to the Host Cytosol. MBio, e0117921. DOI: [10.1128/mBio.01179-21](https://doi.org/10.1128/mBio.01179-21)  PMID: [34101486](https://pubmed.ncbi.nlm.nih.gov/34101486/)
@@ -20,9 +20,32 @@ My goal as a future physician-scientist is to perform bench-to-bedside translati
 - Yang, C., Kari, L., Sturdevant, G. L., Song, L., **<ins>Patton, M. J.<ins>**, Couch, C. E., Ilgenfritz, J. M., Southern, T. R., Whitmire, W. M., Briones, M., Bonner, C., Grant, C., Hu, P., McClarty, G., & Caldwell, H. D. (2017). Chlamydia trachomatis ChxR is a transcriptional regulator of virulence factors that function in in vivo host-pathogen interactions. Pathogens and Disease, 75(3). DOI: [10.1093/femspd/ftx035](https://doi.org/10.1093/femspd/ftx035)  PMID: [28369275](https://pubmed.ncbi.nlm.nih.gov/28369275/)
 - **<ins>Patton, M. J.<ins>**, McCorrister, S., Grant, C., Westmacott, G., Fariss, R., Hu, P., Zhao, K., Blake, M., Whitmire, B., Yang, C., Caldwell, H. D., & McClarty, G. (2016). Chlamydial Protease-Like Activity Factor and Type III Secreted Effectors Cooperate in Inhibition of p65 Nuclear Translocation. MBio, 7(5). DOI: [10.1128/mBio.01427-16](https://doi.org/10.1128/mBio.01427-16)  PMID: [27677792](https://pubmed.ncbi.nlm.nih.gov/27677792/)
 
+## Presentations 
+### Oral Presentations
+- Patton, M.J., Benson, D., Dhaval, R., Patel K., Morris, P., Might M., Erdmann, N., Gaggar, A. Determinants of Pulmonary Post-acute Sequelae of SARS-COV-2 (PASC): A Single-Center Retrospective Study. Keystone Symposium on Long COVID and Post Acute Sequalae of SARS-CoV-2 (PASC): Pathogenesis and Treatment. August 27-30th, 2023, Santa Fe, New Mexico
+- Patton, M.J. & Might, M. Has Machine Learning Made a Difference? A Retrospective Analysis of In-Hospital Mortality Prediction. Symposium on Artificial Intelligence and Learning Health Systems (SAIL). May 9-12th, 2023, San Juan, Puerto Rico
+- Patton, M.J., Orihuela, C. J., Harrod, K. S., Bhuiyan, M. A. N., Dominic, P., Kevil, C. G., Fort, D., Liu, V. X., Farhat, M., Koff, J. L., Lal, C. V., Gaggar, A., Richter, R. P., Erdmann, N., Might, M., Gaggar, A. COVID-19 bacteremic co-infection is a major risk factor for mortality, ICU admission, and mechanical ventilation. American Medical Informatics Association (AMIA) Informatics Summit. March 13-16th, 2023, Seattle, Washington
+
+### Poster Presentations 
+- Patton, M.J. & Might, M. Has Machine Learning Made a Difference? A Retrospective Analysis of In-Hospital Mortality Prediction. Symposium on Artificial Intelligence and Learning Health Systems (SAIL). May 9-12th, 2023, San Juan, Puerto Rico
+- Patton, M.J., Liu, V. X., Might, M. Temporal Analysis of Biomarker, Severity-of-Illness Score, and Machine Learning Model Performance for Sepsis Prediction. 42nd International Symposium on Intensive Care and Emergency Medicine (ISICEM). March 21-24th, 2023, Brussels, Belgium
+- Patton, M.J., Erdmann, N., Harrod, K. S., Gaggar, A., Orihuela, C. J., Crouse, A., Might M. Culture Status Improves Respiratory Failure Prediction in COVID-19+ Sepsis Patients. 41st Symposium on Intensive Care and Emergency Medicine (ISICEM). March 22-25th, 2022, Brussels, Belgium
+- Patton, M.J., Chen., C.Y., Yang, C., McCorrister, S., Grant, B., Westmacott, G., Yuan, X.Y., Ochoa, E., Fariss, R., Whitmire, B., Carlson, J.H., Caldwell, H.D., McClarty, G. Comparative Proteomics Reveals New Plasmid Regulated Chlamydia trachomatis Virulence Factors. University of Alabama at Birmingham (UAB) Medical Student Research Day. November 13th, 2017, Birmingham, Alabama. 
+- Patton M.J., McKinley C.J., Discolo C.A., Deardorff, D. An Enantioselective Synthesis of Cymbalta. Amgen Undergraduate Research Scholarship Conference. May, 2013, Thousand Oaks, California. 
+
+## Conferences Attended
+- Keystone Symposium on Long COVID and Post Acute Sequalae of SARS-CoV-2 (PASC): Pathogenesis and Treatment, August 27-30th, 2023, Santa Fe, New Mexico
+- 42nd International Symposium on Intensive Care and Emergency Medicine (ISICEM), March 21-24th, 2023, Brussels, Belgium
+- American Medical Informatics Association (AMIA) Informatics Summit. March 13-16th, 2023, Seattle, Washington
+- 41st Symposium on Intensive Care and Emergency Medicine (ISICEM). March 22-25th, 2022, Brussels, Belgium
+- American Medical Informatics Association (AMIA) Virtual Annual Symposium. November 14-18th, 2020 (Virtual)
+- International Conference on Functional Programming (ICFP) Series on miniKanren.  August 27th, 2020 (Virtual)
+- Southeastern Medical Scientist Symposium (SEMSS). November 10-11th, 2018, Nashville, Tennessee 
+
 ## Press & News Releases 
 - New England Journal of Medicine Scholarship for Presentation at the Symposium on Artifical Intelligence and Learning Health Systems (May, 2023): [Patton receives NEJM scholarship for SAIL](https://www.uab.edu/medicine/news/latest/item/2900-nejm-sail-scholarship)]
 - University of Alabama at Birmingham Featured Scientific Discovery (July, 2023): [COVID-19: Bacterial co-infection is a major risk factor for death, ICU admission and mechanical ventilation](https://www.uab.edu/medicine/news/component/k2/item/2816-covid-19-bacteremic-co-infection-is-a-major-risk-factor)
+
 
 ## Employment, Education, & Awards
 ### MD/PhD Candidate in the University of Alabama Medical Scientist Training Program (2017-Present)
@@ -36,7 +59,7 @@ My goal as a future physician-scientist is to perform bench-to-bedside translati
     - Racket
     - Scheme
 
-### NIH IRTA Post-Baccalaureate Researcher (2014-2017)
+### NIH Intramural Research Training Award Research (IRTA) Scholar (2014-2017)
 #### National Institute of Allergy and Infectious Diseases (NIAID)
 - Performed experiments analyzing host-bacterial interactions of the human pathogen Chlamydia trachomatis. Focal points of my two publications were the chlamydial plasmid and the putative virulence factor CPAF, the chlamydial protease-like activity factor, and their respective functions in host immune avoidance and the chlamydial life cycle. 
 - Laboratory Skills
