@@ -53,9 +53,8 @@ After departing the NIH, I began my first year as a MD/PhD student at the Univer
 - Southeastern Medical Scientist Symposium (SEMSS). November 10-11th, 2018, Nashville, Tennessee 
 
 ## Press & News Releases 
-- New England Journal of Medicine Scholarship for Presentation at the Symposium on Artifical Intelligence and Learning Health Systems (May, 2023): [Patton receives NEJM scholarship for SAIL](https://www.uab.edu/medicine/news/latest/item/2900-nejm-sail-scholarship)
 - University of Alabama at Birmingham Featured Scientific Discovery (July, 2023): [COVID-19: Bacterial co-infection is a major risk factor for death, ICU admission and mechanical ventilation](https://www.uab.edu/medicine/news/component/k2/item/2816-covid-19-bacteremic-co-infection-is-a-major-risk-factor)
-
+- New England Journal of Medicine Scholarship for Presentation at the Symposium on Artifical Intelligence and Learning Health Systems (May, 2023): [Patton receives NEJM scholarship for SAIL](https://www.uab.edu/medicine/news/latest/item/2900-nejm-sail-scholarship)
 
 ## Employment, Education, & Awards
 ### MD/PhD Candidate in the University of Alabama Medical Scientist Training Program (2017-Present)
