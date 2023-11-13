@@ -21,13 +21,14 @@ My goal as a future physician-scientist is to perform bench-to-bedside translati
 - **Patton, M.J.**, McCorrister, S., Grant, C., Westmacott, G., Fariss, R., Hu, P., Zhao, K., Blake, M., Whitmire, B., Yang, C., Caldwell, H. D., & McClarty, G. (2016). Chlamydial Protease-Like Activity Factor and Type III Secreted Effectors Cooperate in Inhibition of p65 Nuclear Translocation. MBio, 7(5). DOI: [10.1128/mBio.01427-16](https://doi.org/10.1128/mBio.01427-16)  PMID: [27677792](https://pubmed.ncbi.nlm.nih.gov/27677792/)
 
 ## Press & News Releases 
+- New England Journal of Medicine Scholarship for Presentation at the Symposium on Artifical Intelligence and Learning Health Systems (May, 2023): [Patton receives NEJM scholarship for SAIL](https://www.uab.edu/medicine/news/latest/item/2900-nejm-sail-scholarship)]
 - University of Alabama at Birmingham Featured Scientific Discovery (July, 2023): [COVID-19: Bacterial co-infection is a major risk factor for death, ICU admission and mechanical ventilation](https://www.uab.edu/medicine/news/component/k2/item/2816-covid-19-bacteremic-co-infection-is-a-major-risk-factor)
 
 ## Employment, Education, & Awards
 ### MD/PhD Candidate in the University of Alabama Medical Scientist Training Program (2017-Present)
 #### University of Alabama at Birmingham (UAB)
 - Analyzed electronic health record data from multiple institutions (Cerner, EPIC systems) 
-- Performed risk factor and outcome modeling analyses for COVID-19 community-acquired bacterial co-infections 
+- Performed risk factor and outcome modeling analyses for acute COVID-19 outcomes and chronic post-COVID symptoms
 - Programming Skills
     - R
     - Python
