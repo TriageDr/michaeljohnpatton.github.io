@@ -7,7 +7,7 @@ After departing the NIH, I began my first year as a MD/PhD student at the Univer
 
 ## Publications
 ### MD/PhD Research (2017-Present)
-#### Manuscripts
+#### Published Manuscripts
 - **Patton, M. J.**, Gaggar, A., Might, M., Erdmann, N., Orihuela, C. J., & Harrod, K. S. (2023). Community-Acquired Bacterial Co-infections and COVID-19. Physiological Reviews. DOI: [10.1152/physrev.00010.2023](https://journals.physiology.org/doi/abs/10.1152/physrev.00010.2023) PMID: [37589392](https://pubmed.ncbi.nlm.nih.gov/37589392/)
 - **Patton, M. J.** & Liu, V. X. (2023). Predictive modeling using artificial intelligence and machine learning algorithms on electronic health record data. Critical Care Clinics. DOI: [10.1016/j.ccc.2023.02.001](https://doi.org/10.1016/j.ccc.2023.02.001) PMID: [37704332](https://pubmed.ncbi.nlm.nih.gov/37704332/) 
 - Fortmann, S. D.&dagger; & **Patton, M. J.&dagger;**, Frey, B. F., Tipper, J. L., Reddy, S. B., Vieira, C. P., Hanumanthu, V. S., Sterrett, S., Floyd, J. L., Prasad, R., Zucker, J. D., Crouse, A. B., Huls, F., Chkheidze, R., Li, P., Erdmann, N., Harrod, K. S., Gaggar, A., Goepfert, P. A., … Might, M. (2023). Circulating SARS-CoV-2+ Megakaryocytes Associate with Severe Viral Infection in COVID-19. Blood Advances. DOI: [10.1182/bloodadvances.2022009022](https://doi.org/10.1182/bloodadvances.2022009022)  PMID: [36920790](https://pubmed.ncbi.nlm.nih.gov/36920790/)
@@ -15,7 +15,7 @@ After departing the NIH, I began my first year as a MD/PhD student at the Univer
 - Foksinska, A., Crowder, C. M., Crouse, A. B., Henrikson, J., Byrd, W. E., Rosenblatt, G., **Patton, M. J.**, He, K., Tran-Nguyen, T. K., Zheng, M., Ramsey, S. A., Amin, N., Osborne, J., UAB Precision Medicine Institute, & Might, M. (2022). The precision medicine process for treating rare disease using the artificial intelligence tool mediKanren. Frontiers in Artificial Intelligence, 5, 910216. DOI: [10.3389/frai.2022.910216](https://doi.org/10.3389/frai.2022.910216)  PMID: [36248623](https://pubmed.ncbi.nlm.nih.gov/36248623/)
 - Prasad, R., **Patton, M. J.**, Floyd, J. L., Fortmann, S., DuPont, M., Harbour, A., Wright, J., Lamendella, R., Stevens, B. R., Oudit, G. Y., & Grant, M. B. (2022). Plasma Microbiome in COVID-19 Subjects: An Indicator of Gut Barrier Defects and Dysbiosis. International Journal of Molecular Sciences, 23(16). DOI: [10.3390/ijms23169141](https://doi.org/10.3390/ijms23169141)  PMID: [36012406](https://pubmed.ncbi.nlm.nih.gov/36012406/)
 
-#### Abstracts
+#### Published Abstracts
 - Almunaifer, A.I., Sasse, K., He, K., **Patton, M. J.**, Vong, C.D.R, Nadimpalli, S.R., Byrd, W., Osborne, J.D. Addressing Treatment-Relevance in Biomedical Relation Extraction. International Conference on Functional Programming Series on Declarative Programming in Biology and Medicine (ICFP-DeclMed). 2023. Conference Abstract Link: [icfp23.sigplan.org/Addressing-Treatment-Relevance-in-Biomedical-Relation-Extraction](https://icfp23.sigplan.org/details/declmed-2023-papers/12/Addressing-Treatment-Relevance-in-Biomedical-Relation-Extraction)
 - **Patton, M. J.**, Liu, V. X., Might, M. Temporal Analysis of Biomarker, Severity-of-Illness Score, and Machine Learning Model Performance for Sepsis Prediction. 42nd International Symposium on Intensive Care and Emergency Medicine (ISICEM). 2023. Critical Care, 27(S1):72, P131. DOI: [10.1186/s13054-023-04377-x](https://ccforum.biomedcentral.com/articles/10.1186/s13054-023-04377-x) PMCID: [PMC10268394](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10268394/)
 - **Patton, M. J.**, Erdmann, N., Harrod, K. S., Gaggar, A., Orihuela, C. J., Crouse, A., Might M. Culture Status Improves Respiratory Failure Prediction in COVID-19+ Sepsis Patients. 41st  international symposium on intensive care and emergency medicine (ISICEM). 2022. Critical Care, 26(S1):26, P094. DOI: [10.1186/s13054-022-03927-z](https://ccforum.biomedcentral.com/articles/10.1186/s13054-022-03927-z) PMCID: [PMC8948467](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8948467/)
@@ -23,7 +23,7 @@ After departing the NIH, I began my first year as a MD/PhD student at the Univer
 - Byrd., W., Rosenblatt, G., **Patton, M. J.**, Might, M. mediKanren: A System for Bio-medical Reasoning. International Conference on Functional Programming (ICFP) Series on miniKanren. 2020. Conference Abstract Link: [icfp20.sigplan.org/mediKanren-A-System-for-Bio-medical-Reasoning](https://icfp20.sigplan.org/details/minikanren-2020-papers/10/mediKanren-A-System-for-Bio-medical-Reasoning)
 
 ### NIH Post-Baccalaureate Research (2014-2017)
-#### Manuscripts
+#### Published Manuscripts
 - Lei, L., Yang, C., **Patton, M. J.**, Smelkinson, M., Dorward, D., Ma, L., Karanovic, U., Firdous, S., McClarty, G., & Caldwell, H. D. (2021). A Chlamydial Plasmid-Dependent Secretion System for the Delivery of Virulence Factors to the Host Cytosol. MBio, e0117921. DOI: [10.1128/mBio.01179-21](https://doi.org/10.1128/mBio.01179-21)  PMID: [34101486](https://pubmed.ncbi.nlm.nih.gov/34101486/)
 - Yang, C., Briones, M., Chiou, J., Lei, L., **Patton, M. J.**, Ma, L., McClarty, G., & Caldwell, H. D. (2019). Chlamydia trachomatis Lipopolysaccharide Evades the Canonical and Noncanonical Inflammatory Pathways To Subvert Innate Immunity. MBio, 10(2). DOI: [10.1128/mBio.00595-19](https://doi.org/10.1128/mBio.00595-19)  PMID: [31015326](https://pubmed.ncbi.nlm.nih.gov/31015326/)
 - **Patton, M. J.**, Chen, C.-Y., Yang, C., McCorrister, S., Grant, C., Westmacott, G., Yuan, X.-Y., Ochoa, E., Fariss, R., Whitmire, W. M., Carlson, J. H., Caldwell, H. D., & McClarty, G. (2018). Plasmid Negative Regulation of CPAF Expression Is Pgp4 Independent and Restricted to Invasive Chlamydia trachomatis Biovars. MBio, 9(1). DOI: [10.1128/mBio.02164-17](https://doi.org/10.1128/mBio.02164-17)  PMID: [29382731](https://pubmed.ncbi.nlm.nih.gov/29382731/)
@@ -64,6 +64,7 @@ After departing the NIH, I began my first year as a MD/PhD student at the Univer
 - Programming Skills
     - R
     - Python
+    - SparkR and PySpark
     - SQL
     - Racket
     - Scheme
