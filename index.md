@@ -1,4 +1,4 @@
-# Michael J. Patton <br />MD/PhD Candidate at the University of Alabama at Birmingham
+# Dr. Michael J. Patton <br />PhD, MSTP Candidate at the University of Alabama at Birmingham
 <img src="https://raw.githubusercontent.com/TriageDr/michaeljohnpatton.github.io/main/michaelpatton_professional_headshot_2in.png" width=200 height=300> 
 
 My goal as a future physician-scientist is to perform bench-to-bedside translational science by extracting clinically actionable information from multi-omic experimental data and electronic medical records.  As an undergraduate researcher studying organic synthesis (2009-2013), I never produced enough data to warrant a deep dive into rigorous computational analysis; however, as a post-baccalaureate researcher at the NIH (2014-2017), I found that the application of high-throughput proteomic analysis to a bacterial disease models could produce a significant amount of complex data.  Under Dr. Harlan Caldwell’s guidance, I established foundational knowledge of human-microbial interactions through the study _Chlamydia trachomatis_ pathogenesis while gaining deep understanding of how to perform wet lab omic analyses using mass spectrometry.  During my three years at the NIH, I discovered a novel _C. trachomatis_ immune avoidance mechanism and performed experiments resulting in the highest proteomic coverage of the organism to date.  
@@ -7,6 +7,9 @@ After departing the NIH, I began my first year as a MD/PhD student at the Univer
 
 ## Publications
 ### MD/PhD Research (2017-Present)
+#### Dissertation 
+- **Patton, MJ**. Biomedical Informatic Analysis of Critical Care Outcomes & Chronic Sequelae of SARS-CoV-2 Infection. Order No. 31327440 The University of Alabama at Birmingham, 2024. United States, Alabama: ProQuest. Web. (10/11/2024). DOI: [https://www.proquest.com/docview/3101965836](https://uab.idm.oclc.org/login?url=https://www.proquest.com/dissertations-theses/biomedical-informatic-analysis-critical-care/docview/3101965836/se-2?accountid=8240)
+  
 #### Published Manuscripts
 - **Patton, MJ**, Benson D, Robison, SW, Raval D, Locy ML, Patel K, Grumley S, Levitan EB, Morris P, Might M, Gaggar A, Erdmann N. Characteristics and Determinants of Pulmonary Long COVID. (2024) JCI Insight. 23:e177518. DOI: [10.1172/jci.insight.177518](https://doi.org/10.1172/jci.insight.177518) PMID: [38652535](https://pubmed.ncbi.nlm.nih.gov/38652535/)
 - **Patton, MJ**, Gaggar, A, Might, M, Erdmann, N, Orihuela, CJ, & Harrod, KS. (2023). Community-Acquired Bacterial Co-infections and COVID-19. Physiological Reviews. DOI: [10.1152/physrev.00010.2023](https://journals.physiology.org/doi/abs/10.1152/physrev.00010.2023) PMID: [37589392](https://pubmed.ncbi.nlm.nih.gov/37589392/)
@@ -38,14 +41,17 @@ After departing the NIH, I began my first year as a MD/PhD student at the Univer
 - **Patton, MJ**, Orihuela, CJ, Harrod, KS, Bhuiyan, MAN, Dominic, P, Kevil, CG, Fort, D, Liu, VX, Farhat, M, Koff, JL, Lal, CV, Gaggar, A, Richter, RP, Erdmann, N, Might, M, Gaggar, A. _COVID-19 bacteremic co-infection is a major risk factor for mortality, ICU admission, and mechanical ventilation_. American Medical Informatics Association (AMIA) Informatics Summit. March 13-16th, 2023, Seattle, Washington
 
 ### Poster Presentations 
-- **Patton, MJ** & Might, M. _Has Machine Learning Made a Difference? A Retrospective Analysis of In-Hospital Mortality Prediction_. Symposium on Artificial Intelligence and Learning Health Systems (SAIL). May 9-12th, 2023, San Juan, Puerto Rico
+- **Patton, MJ**, Huls, F, LeBlanc, K, Cole, Sessions, Might, M. _Automating clinical coding of HPO for rare and undiagnosed diseases with large language models via ontological descent_. Symposium on Artificial Intelligence and Learning Health Systems (SAIL). May 6-9th, 2024, San Juan, Puerto Rico. DOI: (https://sail.health/wp-content/uploads/2024/05/Poster-8-Patton.pdf)[https://sail.health/wp-content/uploads/2024/05/Poster-8-Patton.pdf]
+- **Patton, MJ** & Might, M. _Has Machine Learning Made a Difference? A Retrospective Analysis of In-Hospital Mortality Prediction_. Symposium on Artificial Intelligence and Learning Health Systems (SAIL). May 9-12th, 2023, San Juan, Puerto Rico. DOI: (https://sail.health/wp-content/uploads/2023/11/18-SAIL_poster_Patton.pdf)[https://sail.health/wp-content/uploads/2023/11/18-SAIL_poster_Patton.pdf]
 - **Patton, MJ**, Liu, VX, Might, M. _Temporal Analysis of Biomarker, Severity-of-Illness Score, and Machine Learning Model Performance for Sepsis Prediction_. 42nd International Symposium on Intensive Care and Emergency Medicine (ISICEM). March 21-24th, 2023, Brussels, Belgium
 - **Patton, MJ**, Erdmann, N, Harrod, KS, Gaggar, A, Orihuela, CJ, Crouse, A, Might M. _Culture Status Improves Respiratory Failure Prediction in COVID-19+ Sepsis Patients_. 41st Symposium on Intensive Care and Emergency Medicine (ISICEM). March 22-25th, 2022, Brussels, Belgium
-- **Patton, MJ**, Chen, CY, Yang, C, McCorrister, S, Grant, B, Westmacott, G, Yuan, XY, Ochoa, E, Fariss, R, Whitmire, WM, Carlson, JH, Caldwell, HD, McClarty, G. _Comparative Proteomics Reveals New Plasmid Regulated Chlamydia trachomatis Virulence Factors_. University of Alabama at Birmingham (UAB) Medical Student Research Day. November 13th, 2017, Birmingham, Alabama. 
-- **Patton, MJ**, McKinley CJ, Discolo CA, Deardorff, D. _An Enantioselective Synthesis of Cymbalta_. Amgen Undergraduate Research Scholarship Conference. May, 2013, Thousand Oaks, California. 
+- **Patton, MJ**, Chen, CY, Yang, C, McCorrister, S, Grant, B, Westmacott, G, Yuan, XY, Ochoa, E, Fariss, R, Whitmire, WM, Carlson, JH, Caldwell, HD, McClarty, G. _Comparative Proteomics Reveals New Plasmid Regulated Chlamydia trachomatis Virulence Factors_. University of Alabama at Birmingham (UAB) Medical Student Research Day. November 13th, 2017, Birmingham, Alabama
+- **Patton, MJ**, McKinley CJ, Discolo CA, Deardorff, D. _An Enantioselective Synthesis of Cymbalta_. Amgen Undergraduate Research Scholarship Conference. May, 2013, Thousand Oaks, California
 
 ## Conferences Attended
+- Symposium on Artificial Intelligence and Learning Health Systems (SAIL). May 6-9th, 2024, San Juan, Puerto Rico
 - Keystone Symposium on Long COVID and Post Acute Sequalae of SARS-CoV-2 (PASC): Pathogenesis and Treatment, August 27-30th, 2023, Santa Fe, New Mexico
+- Symposium on Artificial Intelligence and Learning Health Systems (SAIL). May 9-12th, 2023, San Juan, Puerto Rico
 - 42nd International Symposium on Intensive Care and Emergency Medicine (ISICEM), March 21-24th, 2023, Brussels, Belgium
 - American Medical Informatics Association (AMIA) Informatics Summit. March 13-16th, 2023, Seattle, Washington
 - 41st Symposium on Intensive Care and Emergency Medicine (ISICEM). March 22-25th, 2022, Brussels, Belgium
