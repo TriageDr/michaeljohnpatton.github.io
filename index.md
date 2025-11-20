@@ -1,9 +1,9 @@
 # Dr. Michael J. Patton <br />PhD, MSTP Candidate at the University of Alabama at Birmingham
 <img src="https://raw.githubusercontent.com/TriageDr/michaeljohnpatton.github.io/main/michaelpatton_professional_headshot_2in.png" width=200 height=300> 
 
-My goal as a future physician-scientist is to perform bench-to-bedside translational science by extracting clinically actionable information from multi-omic experimental data and electronic medical records.  As an undergraduate researcher studying organic synthesis (2009-2013), I never produced enough data to warrant a deep dive into rigorous computational analysis; however, as a post-baccalaureate researcher at the NIH (2014-2017), I found that the application of high-throughput proteomic analysis to a bacterial disease models could produce a significant amount of complex data.  Under Dr. Harlan Caldwell’s guidance, I established foundational knowledge of human-microbial interactions through the study _Chlamydia trachomatis_ pathogenesis while gaining deep understanding of how to perform wet lab omic analyses using mass spectrometry.  During my three years at the NIH, I discovered a novel _C. trachomatis_ immune avoidance mechanism and performed experiments resulting in the highest proteomic coverage of the organism to date.  
+My goal as a future physician-scientist is to perform bench-to-bedside translational science by extracting clinically actionable information from multi-omic experimental data and electronic medical records.  As an undergraduate chemistry major, I honed a wide variety of laboratory skills including, chromatography, mass-spectrometry, and 1D/2D NMR while working in Dr. Donald Deardorff's organic synthesis group at Occidental College (2009-2013). From 2014–2017 at the NIH, I applied high-throughput proteomics to bacterial disease models and, under Dr. Harlan Caldwell’s mentorship, developed expertise in _Chlamydia trachomatis pathogenesis_ and mass-spectrometry–based omics. Over those three years, I identified a novel _C. trachomatis_ immune-evasion mechanism and generated the highest proteomic coverage of the organism reported to date.
 
-After departing the NIH, I began my first year as a MD/PhD student at the University of Alabama at Birmingham (2017-Present) with a desire to learn the informatic expertise required to analyze more complex omic datasets in human disease studies.  By the end of my first year of medical school, I realized that my previous experience with high-throughput proteomics at the NIH was pulling me closer to a pursuit of computational methods and translational medical research.  As a current graduate student, I committed myself to the pursuit of a PhD in biomedical informatics.  With the mentorship of Dr. Matthew Might, I am currently developing a diverse skill-set in electronic medical record analysis, machine learning, outcome modeling, and clinical decision support software development at the University of Alabama at Birmingham Precision Medicine Institute (UAB-PMI). 
+After departing the NIH, I began my first year as a MD/PhD student at the University of Alabama at Birmingham (2017-Present) with a desire to learn the informatic expertise required to analyze more complex omic datasets in human disease studies.  By the end of my first year of medical school, I realized that my previous experience with high-throughput proteomics at the NIH was pulling me closer to a pursuit of computational methods and translational medical research.  As a graduate student, I committed myself to the pursuit of a PhD in biomedical informatics.  With the mentorship of Dr. Matthew Might, I am currently developing a diverse skill-set in electronic medical record analysis, machine learning, outcome modeling, and clinical decision support software development at the University of Alabama at Birmingham Precision Medicine Institute (UAB-PMI). 
 
 ## Publications
 ### MD/PhD Research (2017-Present)
@@ -115,9 +115,10 @@ After departing the NIH, I began my first year as a MD/PhD student at the Univer
 You can reach me at:
 
 - Email: mjpatton@uab.edu
-- LinkedIn: [https://www.linkedin.com/in/michael-patton-uab-md-phd/](https://www.linkedin.com/in/michael-patton-uab-md-phd/)
-- ResearchGate: [https://www.researchgate.net/profile/Michael_Patton9](https://www.researchgate.net/profile/Michael_Patton9)
-- ORCID: [https://orcid.org/0000-0001-5056-6043](https://orcid.org/0000-0001-5056-6043)
-- PubMed: [https://pubmed.ncbi.nlm.nih.gov/?size=200&term=Patton+MJ&cauthor_id=36012406](https://pubmed.ncbi.nlm.nih.gov/?size=200&term=Patton+MJ&cauthor_id=36012406)
-- UAB Precision Medicine Institute: [https://www.uab.edu/medicine/pmi/our-team](https://www.uab.edu/medicine/pmi/our-team)
-- UAB Medical Scientist Training Program: [https://www.uab.edu/medicine/mstp/directories/current-students](https://www.uab.edu/medicine/mstp/directories/current-students)
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=NTL9aT4AAAAJ)
+- [LinkedIn](https://www.linkedin.com/in/michael-patton-uab-md-phd/)
+- [ResearchGate](https://www.researchgate.net/profile/Michael_Patton9)
+- [ORCID](https://orcid.org/0000-0001-5056-6043)
+- [PubMed](https://pubmed.ncbi.nlm.nih.gov/?size=200&term=Patton+MJ&cauthor_id=36012406)
+- [UAB Precision Medicine Institute](https://www.uab.edu/medicine/pmi/our-team)
+- [UAB Medical Scientist Training Program](https://www.uab.edu/medicine/mstp/directories/current-students)
