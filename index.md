@@ -1,4 +1,5 @@
-# Dr. Michael J. Patton MD, PhD <br />Precision Medicine Research Fellow at the University of Alabama at Birmingham
+# Dr. Michael J. Patton  MD, PhD 
+## Precision Medicine Post-Doctoral Research Fellow <br />University of Alabama at Birmingham
 <img src="https://raw.githubusercontent.com/TriageDr/michaeljohnpatton.github.io/main/michaelpatton_professional_headshot_2in.png" width=200 height=300> 
 
 My goal as a future physician-scientist is to perform bench-to-bedside translational science by extracting clinically actionable information from multi-omic experimental data and electronic medical records.  As an undergraduate chemistry major, I honed a wide variety of laboratory skills including, chromatography, mass-spectrometry, and 1D/2D NMR while working in Dr. Donald Deardorff's organic synthesis group at Occidental College (2009-2013). From 2014–2017 at the NIH, I applied high-throughput proteomics to bacterial disease models and, under Dr. Harlan Caldwell’s mentorship, developed expertise in _Chlamydia trachomatis_ pathogenesis and mass-spectrometry–based omics. Over those three years, I identified a novel _C. trachomatis_ immune-evasion mechanism and generated the highest proteomic coverage of the organism reported to date.
